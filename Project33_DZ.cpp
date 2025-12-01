@@ -4,8 +4,6 @@
 #include "vector"
 int main() {
 
-    setlocale(LC_ALL, "");
-
     Dog myDog("Rex", "123");
     Cat myCat("Moork", "234");
     Parrot myParrot("Pap", true);
